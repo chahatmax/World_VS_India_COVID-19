@@ -76,4 +76,4 @@ Then open the notebook `3_EDA_DUMMY.ipynb` and we're ready to get coding. Enjoy.
 
 
 ### Code
-The code in this repository is released under the [MIT license](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT). All text remains the Intellectual Property of DataCamp. If you wish to reuse, adapt or remix, get in touch with me at hugo at datacamp com to request permission.
+The code in this repository is released under the [MIT license](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT). All text remains the Intellectual Property of Chahatmax. If you wish to reuse, adapt or remix, get in touch with me at write2neeraj@gmail.com to request permission.
